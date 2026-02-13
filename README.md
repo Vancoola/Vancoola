@@ -24,7 +24,7 @@ I build high-performance, resilient, and type-safe systems. My passion lies in *
 
 | Layer | Technologies |
 | :--- | :--- |
-| **Backend** | `Rust (Axum, Tokio, SQLx)`, `Go` |
+| **Backend** | `Rust (Axum, Tokio, SQLx)`, `C#` |
 | **Frontend** | `Leptos (WASM)`, `Tailwind CSS` |
 | **Infrastructure** | `PostgreSQL`, `Redis`, `Docker`, `NATS` |
 | **Extensibility** | `Wasmtime`, `WIT (Component Model)` |

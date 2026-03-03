@@ -32,6 +32,6 @@ I build high-performance, resilient, and type-safe systems. My passion lies in *
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [linkedin.com/in/denis-suzdaltsev](https://linkedin.com/in/denis-suzdaltsev)
-- 📧 Email: suzdaltsevdenis@icloud.com
+- 💼 LinkedIn: [linkedin.com/in/dennis-s-dale](https://linkedin.com/in/dennis-s-dale)
+- 📧 Email: dennis.s.dale@icloud.com
 - 🦀 Rustaceans are always welcome to open a PR or a Discussion in my repos!

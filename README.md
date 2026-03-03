@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Denis
+# 👋 Hello, I'm Dennis
 ### System Architect & Rust Enthusiast 🦀
 
 <p align="left">

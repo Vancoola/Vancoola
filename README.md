@@ -1,5 +1,5 @@
-# 👋 Hello, I'm Dennis
-### System Architect & Rust Enthusiast 🦀
+# Hello, I'm Dennis
+### System Architect & Rust Enthusiast 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Rust-2024-orange?style=for-the-badge&logo=rust" alt="Rust">
@@ -10,16 +10,16 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I build high-performance, resilient, and type-safe systems. My passion lies in **Modular Monoliths**, **Event-Driven Architecture**, and pushing the boundaries of what's possible with **Rust**.
 
-- 🏗️ Deeply interested in **Clean Architecture**, **Transactional Outbox patterns**, and **Zero-cost abstractions**.
-- ⚡ Focus: Low-latency backends, secure sandboxing, and scalable database design.
+- Deeply interested in **Clean Architecture**, **Transactional Outbox patterns**, and **Zero-cost abstractions**.
+- Focus: Low-latency backends, secure sandboxing, and scalable database design.
 
 ---
 
-## 🛠️ Engineering Toolkit
+## Engineering Toolkit
 
 | Layer | Technologies |
 | :--- | :--- |
@@ -30,8 +30,7 @@ I build high-performance, resilient, and type-safe systems. My passion lies in *
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 - 💼 LinkedIn: [linkedin.com/in/dennis-s-dale](https://linkedin.com/in/dennis-s-dale)
 - 📧 Email: dennis.s.dale@icloud.com
-- 🦀 Rustaceans are always welcome to open a PR or a Discussion in my repos!

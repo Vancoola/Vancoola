@@ -1,5 +1,5 @@
 # Hello, I'm Dennis
-### System Architect & Rust Enthusiast 
+### .NET & Rust Enthusiast 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Rust-2024-orange?style=for-the-badge&logo=rust" alt="Rust">

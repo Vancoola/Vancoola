@@ -1,4 +1,4 @@
-# Dennis Suzdaltsev
+# Denis Suzdaltsev
 
 ### Backend Engineer | C#/.NET and Rust
 

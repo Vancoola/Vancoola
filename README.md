@@ -23,7 +23,7 @@ A vocabulary learning SaaS with spaced repetition. I built the Rust backend, Lep
 
 ### [oxide-outbox](https://github.com/Vancoola/oxide-outbox)
 
-An open-source Transactional Outbox library for Rust with PostgreSQL, Redis, and Kafka adapters. Published on [crates.io](https://crates.io/crates/oxide-outbox).
+An open-source Transactional Outbox library for Rust with PostgreSQL, Redis, and Kafka adapters. Published on [crates.io](https://crates.io/crates/outbox-core).
 
 ### [CatNet](https://github.com/Vancoola/catnet)
 
